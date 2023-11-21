@@ -1,0 +1,5 @@
+/a/workspace/moxu/build/CMakeFiles/moxu.dir
+/a/workspace/moxu/build/CMakeFiles/test.dir
+/a/workspace/moxu/build/CMakeFiles/test_config.dir
+/a/workspace/moxu/build/CMakeFiles/edit_cache.dir
+/a/workspace/moxu/build/CMakeFiles/rebuild_cache.dir

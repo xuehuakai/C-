@@ -1,0 +1,6 @@
+2023-11-13 16:09:39	ERROR	Test macro error
+
+2023-11-13 16:09:39	FATAL	The Web is faile
+
+2023-11-13 16:09:39	ERROR	test macro fmt error aa
+

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -rdynamic -O3 -g -std=c++11 -Wno-deprecated -Werror -Wno-unused-function -shared -Wl,-soname,libmoxu.so -o build/libmoxu.so CMakeFiles/moxu.dir/src/log.cpp.o CMakeFiles/moxu.dir/src/util.cpp.o CMakeFiles/moxu.dir/src/config.cpp.o   -L/a/workspace/moxu/build/build 

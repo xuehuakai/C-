@@ -1,0 +1,45 @@
+#moxu --服务器名字
+
+#开发环境 linux
+		  cmake
+#项目：
+	bin --二进制
+	build --中间文件路径
+	cmake --cmake函数文件夹
+	CMakeLists.txt --cmake的定义文件
+	lib --库的输出路径
+	src --源代码
+	test --测试文件
+
+
+##日至系统 --首先
+1)
+	Log4J
+
+	Logger(定义日至类别)
+	  |
+	  |-------Formatter(日志格式)
+	  |
+	Appender(日至输出地方)
+	
+
+
+##配置系统
+
+Config ---> Yaml
+
+yaml-app:github 搜
+mkdir build && cd build && cmake .. && cmake install
+
+配置系统的原则，约定优先于配置：
+
+##基于协程 协程库的封装  协程：将异步的操作封装成同步
+
+##websocket开发
+
+##http协议开发
+
+##分布式协议库  --在socket库的基础上再封装一套分布式协议库
+
+##推荐系统
+
